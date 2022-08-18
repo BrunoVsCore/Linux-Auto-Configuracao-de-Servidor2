@@ -1,11 +1,9 @@
-# Linux-Auto-Configuracao-de-Servidor2
-
 # Infraestrutura como Código: Script de Provisionamento de um Servidor Web (Apache)
 
 ## Conteúdo
 
 ### O que é infraestrutura como código?
-<p> Ingraestrutura como código (IaC) é o gerenciamento e provisionamento da infraestrutura por meio de códigos,em vez de processos manuais.</p>
+<p> Infraestrutura como código (IaC) é o gerenciamento e provisionamento da infraestrutura por meio de códigos, em vez de processos manuais.</p>
 <p> Com a IaC, são criados arquivos de configuração que incluem as especificações da sua infraestrutura, facilitando a edição e  distribuição de configurações. Ela também assegura o provisionamento do mesmo ambiente todas as vezes.</p>
 
 ### Controle de versão
