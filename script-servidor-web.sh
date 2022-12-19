@@ -11,7 +11,7 @@ apt-get install unzip -y
 echo "unzip instalado!"
 
 cd /tmp
-wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
+wget https://github.com/BrunoVsCore/Primeiro_Commit/blob/master/hello.txt
 unzip main.zip
 cd linux-site-dio-main
 cp -R * /var/www/html/
